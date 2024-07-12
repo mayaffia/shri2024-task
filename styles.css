@@ -277,7 +277,7 @@ html, body {
     height: 20.6875rem;
     background: no-repeat 50% 50% url(assets/bg@2x.webp);
     /*background-size: cover;*/
-    background-size: 1260px;
+    background-size: 1260px 20.6875rem;
     border-radius: 1.25rem;
 }
 
@@ -288,6 +288,7 @@ html, body {
         height: auto;
         margin-bottom: 0.3125rem;
         background-image: url(assets/bg@2x.webp);
+        background-size: 1260px 20.6875rem;
     }
 }
 
